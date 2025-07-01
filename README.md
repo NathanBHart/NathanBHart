@@ -5,3 +5,4 @@ I am a Computer Science student at McMaster University with a strong passion for
 ## 📫 Connect
 - ✉️ **Email:** contact _at_ nathanhart _dot_ ca
 - 🎨 **Porfolio Links:** [Dribbble](https://dribbble.com/NathanBHart), [Behance](https://www.behance.net/nathanbhart)
+- 🤝 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/nathan-b-hart/)
